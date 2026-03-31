@@ -35,6 +35,10 @@ They are available via:
 ## ⚙️ Requirements
 *pip install pdfplumber pandas*
 
+## 📁 PDFs
+
+Place the original RHMZ PDF reports in a `/pdfs` folder before running the extraction script.
+
 ## ▶️ Usage
 
 Run the extraction script:

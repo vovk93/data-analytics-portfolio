@@ -15,12 +15,21 @@ The dataset was created by extracting and processing data from annual PDF report
 - Includes temperature, precipitation, wind, humidity, and more
 - Fully reproducible pipeline (PDF → extraction → cleaning)
 
+## 📄 Data Source
+
+The original data was obtained from annual reports published by the Republic Hydrometeorological Service of Serbia (RHMZ).
+
+Due to file size, the original PDF reports are not included in this repository.
+
+They are available via:
+- the official RHMZ website
+- the full dataset archive on Zenodo → https://zenodo.org/records/19239744
+
 ## 📂 Project Structure
 - *extract_data.py* — script to extract data from PDFs
 - *cleaning.py* — script to clean and validate extracted data
 - *raw_weather_data.csv* — raw extracted dataset
 - *cleaned_dataset.csv* — final cleaned dataset
-- */pdfs* — original yearly reports
 - *README.md* — documentation
 
 ## ⚙️ Requirements

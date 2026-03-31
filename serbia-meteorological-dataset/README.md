@@ -33,7 +33,7 @@ They are available via:
 - *README.md* — documentation
 
 ## ⚙️ Requirements
-pip install pdfplumber pandas
+*pip install pdfplumber pandas*
 
 ## ▶️ Usage
 

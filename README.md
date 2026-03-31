@@ -46,4 +46,4 @@ I am a geospatial environmental scientist with a master’s degree, passionate a
 
 I also have experience using **QGIS** for spatial analysis and visualization, which I applied extensively during my academic work in geospatial science.
 
-In addition to technical work, I serve as a **Special Issue Editor at MDPI**, where I coordinate scientific publications, manage peer-review workflows, and work with researchers across geospatial and environmental fields. This role has strengthened my communication, project management, and data-handling skills — all of which support my transition into data analytics.
+In addition to technical work, I serve as a **Peer Review Assistant at Academia.edu**, where I coordinate scientific publications, manage peer-review workflows, and work with researchers across all fields. This role has strengthened my communication, project management, and data-handling skills — all of which support my transition into data analytics.
